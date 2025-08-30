@@ -1,6 +1,6 @@
 name = "mahjong2"
 compatibility_date = "2025-08-30"
-pages_build_output_dir = "build"
 
 [build]
 command = "npm run build"
+destination_dir = "build"
